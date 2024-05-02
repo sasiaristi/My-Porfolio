@@ -1,0 +1,35 @@
+
+nav{
+    background-color: #F2A7BB;
+}
+.footer-container{
+    background-color: #F2A7BB;
+}
+.container-top{
+background-image: url(./images/hero.png);
+height: 655px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.skills>h1{
+    text-align: center;
+    padding-top: 15px;
+    font-family: freight-text-pro, serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h1{
+    font-family: freight-text-pro, serif;
+    font-style: normal;
+    font-weight: 300;
+}
+p{
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+body{
+    background-image: url(./images/Add\ a\ heading.png);
+}
